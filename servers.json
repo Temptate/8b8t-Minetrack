@@ -103,5 +103,10 @@
                 "name": "2b2t.com.ar",
                 "ip": "2b2t.com.ar",
                 "type": "PC"
-        }
+        },
+	{
+		"name": "nihilium.org",
+		"ip": "nihilium.org",
+		"type": "PC"
+	},
 ]
